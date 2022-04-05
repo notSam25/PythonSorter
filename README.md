@@ -13,6 +13,6 @@
 # Building
    This was built with clang++ version 10.0.0.0(My IP address).
    Works with both linux and windows.
-    ```bash
-    clang++ entry.cpp -o BUILD
-    ```
+   ```bash
+   clang++ entry.cpp -o BUILD
+   ```
